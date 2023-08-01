@@ -10,7 +10,7 @@ import { AiOutlineFileImage } from 'react-icons/ai'
 
 const Edit = (ctx) => {
     const CLOUD_NAME = 'doojo83ea'
-    const UPLOAD_PRESET = 'my_blog_project_webdevmania'
+    const UPLOAD_PRESET = '<your upload preset here>'
     const [title, setTitle] = useState("")
     const [desc, setDesc] = useState("")
     const [category, setCategory] = useState("Nature")

@@ -21,7 +21,7 @@ const Navbar = () => {
     <div className={classes.container}>
       <div className={classes.wrapper}>
         <h2 className={classes.left}>
-          <Link href="/">WebDevMania</Link>
+          <Link href="/">BlogX</Link>
         </h2>
         <ul className={classes.right}>
           {
